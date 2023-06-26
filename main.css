@@ -5,17 +5,15 @@ body {
     line-height: 1.5;
 }
 
-li {
-    font-size: 100%;
-    font-family: Arial, Helvetica, sans-serif;
-    display: flex;
-    justify-content: space-between;
+nav li {
     list-style-type: none;
-    align-items: center;
-    padding-top: 2%;
+    text-align: left;
+    margin-left: -50px;
 }
 
-a {
+nav li a {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
     color: white;
     text-decoration: none;
 }
@@ -33,7 +31,7 @@ header img {
 
 header {
     font-size: 70%;
-    line-height: 1.5;
+    line-height: 1.2;
 }
 
 h1 {

@@ -6,7 +6,7 @@ body {
 }
 
 li {
-    font-size: 10%;
+    font-size: 15%;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: space-between;
@@ -33,7 +33,7 @@ header img {
 
 header {
     font-size: 70%;
-    line-height: 0.5;
+    line-height: 1;
 }
 
 h1 {

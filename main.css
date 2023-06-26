@@ -6,7 +6,7 @@ body {
 }
 
 li {
-    font-size: 20%;
+    font-size: 50%;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: space-between;

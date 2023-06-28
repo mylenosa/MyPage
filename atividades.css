@@ -18,5 +18,10 @@ li a {
     text-decoration: none;
 }
 li a:hover {
-    color: red;
+    color: #e9bf35;
+}
+a {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
